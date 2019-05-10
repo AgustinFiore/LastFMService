@@ -2,6 +2,7 @@ package external;
 
 public class Artist {
 
+//se actualizo
     private String bio,imageUrl,name;
 
     public Artist(){}
