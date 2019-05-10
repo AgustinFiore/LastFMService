@@ -4,6 +4,7 @@ public class Artist {
 
     private String bio,imageUrl,name;
 
+//proibando
     public Artist(){}
 
     public Artist(String name,String bio, String imageUrl){
