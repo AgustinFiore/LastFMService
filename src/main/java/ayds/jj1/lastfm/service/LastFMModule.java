@@ -1,6 +1,6 @@
-package ayds.lastFMService.external.lastfm;
+package ayds.jj1.lastfm.service;
 
-import ayds.lastFMService.external.ExternalService;
+import ayds.jj1.lastfm.ExternalService;
 import retrofit2.Retrofit;
 import retrofit2.converter.scalars.ScalarsConverterFactory;
 

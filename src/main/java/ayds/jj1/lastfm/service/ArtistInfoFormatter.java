@@ -1,6 +1,6 @@
-package ayds.lastFMService.external.lastfm;
+package ayds.jj1.lastfm.service;
 
-import ayds.lastFMService.external.Artist;
+import ayds.jj1.lastfm.Artist;
 
 interface ArtistInfoFormatter {
     Artist formatArtistInfo(String body, String artistName);

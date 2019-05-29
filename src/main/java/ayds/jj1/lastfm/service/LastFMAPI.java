@@ -1,4 +1,4 @@
-package ayds.lastFMService.external.lastfm;
+package ayds.jj1.lastfm.service;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

@@ -1,4 +1,4 @@
-package ayds.lastFMService.external;
+package ayds.jj1.lastfm;
 
 public interface ExternalService {
 

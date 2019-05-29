@@ -1,4 +1,4 @@
-package ayds.lastFMService.external.lastfm;
+package ayds.jj1.lastfm.service;
 
 import org.w3c.dom.Document;
 

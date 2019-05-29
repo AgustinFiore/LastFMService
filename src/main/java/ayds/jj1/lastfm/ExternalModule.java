@@ -1,6 +1,6 @@
-package ayds.lastFMService.external;
+package ayds.jj1.lastfm;
 
-import ayds.lastFMService.external.lastfm.LastFMModule;
+import ayds.jj1.lastfm.service.LastFMModule;
 
 public class ExternalModule {
 

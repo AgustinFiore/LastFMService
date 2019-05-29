@@ -1,7 +1,7 @@
-package ayds.lastFMService.external.lastfm;
+package ayds.jj1.lastfm.service;
 
-import ayds.lastFMService.external.Artist;
-import ayds.lastFMService.external.ExternalService;
+import ayds.jj1.lastfm.Artist;
+import ayds.jj1.lastfm.ExternalService;
 import retrofit2.Response;
 import java.io.IOException;
 

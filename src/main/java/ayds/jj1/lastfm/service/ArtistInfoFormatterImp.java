@@ -1,6 +1,6 @@
-package ayds.lastFMService.external.lastfm;
+package ayds.jj1.lastfm.service;
 
-import ayds.lastFMService.external.Artist;
+import ayds.jj1.lastfm.Artist;
 import org.xml.sax.InputSource;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
